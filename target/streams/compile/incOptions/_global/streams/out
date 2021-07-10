@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/krishnaprasad/Documents/LSM/my-project/src/main/scala/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Facto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnonymousFunctions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListOperations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LinearRegression$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIleMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReferentialTransperency.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CorelationAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIleMatcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorial$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KnnClassifier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleCode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InterQuartile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnonymousFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Facto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleCode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckSumAccumulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReferentialTransperency$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KnnClassifier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CorelationAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InterQuartile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LinearRegression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/krishnaprasad/Documents/LSM/my-project/src/main/scala/target/scala-2.12/classes.bak[0m
